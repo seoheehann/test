@@ -1,0 +1,4 @@
+panel
+datashader
+hvplot
+jupyter_bokeh
